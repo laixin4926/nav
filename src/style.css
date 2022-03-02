@@ -28,7 +28,7 @@ a {
   text-decoration: none;
 }
 body {
-  background-image: url("./image/R-C.jfif");
+  background-image: url("../image/R-C.jfif");
 }
 .searchform {
   display: flex;
@@ -103,7 +103,7 @@ body {
   flex-direction: column;
   padding: 17px;
   position: relative;
-  background-image: url(./image/4.jpg);
+  background-image: url(../image/4.jpg);
   cursor: pointer;
 }
 .sitelist .site > .logo {
@@ -137,7 +137,7 @@ body {
   justify-items: center;
   flex-direction: column;
   padding: 17px;
-  background-image: url(./image/4.jpg);
+  background-image: url(..yran/image/4.jpg);
 }
 .sitelist .addbutton .icon {
   width: 60px;
